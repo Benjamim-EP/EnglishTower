@@ -1,6 +1,12 @@
 # EnglishTower
 Repositório destinado a organização de livros, ferramentas de IA e mecanismos que auxiliam no aprendizado do idioma Inglês
 
+## Aplicações 
+[Text-to-speech](https://huggingface.co/spaces/Gradio-Blocks/neon-tts-plugin-coqui)
+
+[Corretor de gramática](https://www.deepl.com/write
+)
+
 ## Frequência de Palavras na Literatura
 
 **Fyodor Dostoyevsky** Todos os trabalhos
